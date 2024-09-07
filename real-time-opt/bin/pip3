@@ -1,4 +1,4 @@
-#!/home/neeraj/retail-price-optimisation-mlops/retail-price-optimisation-mlops/real-time-opt/bin/python3
+#!/home/neeraj/retail-price-optimisation-mlops/retail-price-optimisation-mlops/real-time-opt/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
